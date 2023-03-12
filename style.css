@@ -15,7 +15,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #f5f6f7;
+  background-color: #a1898a;
 }
 
 
@@ -46,7 +46,7 @@ h1 {
 
 .seccion-clara {
   color: black;
-  background-color: white;
+  background-color: #e6c2cd ;
 }
 
 .seccion-titulo {
@@ -89,7 +89,7 @@ h1 {
 /* Seccion Hero */
 
 .hero {
-  background-color: #f5f6f7;
+  background-color: #e6c2cd;
   min-height: 450px;
   text-align: center;
 }
@@ -231,12 +231,15 @@ h1 {
 .articulos {
   min-height: 500px;
   padding: 30px;
+  background-color: #e6c2cd;
 }
 
 .articulos .card {
   width: 80%;
   max-width: 600px;
   margin: 20px;
+  color:white;
+  background-color:#6a565b;
 }
 
 .articulos .card-header {
